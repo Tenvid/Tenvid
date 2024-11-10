@@ -8,8 +8,3 @@ Some of my knowledge:
 - VCS (git) 🧳
 - GitHub and GitHub Actions ⚙
 - Unity 🎮
-
-Now learning:
-- Jenkins ⚙
-- Nginx 🔴
-- AWS 📦
